@@ -1,0 +1,11 @@
+{
+  "name": "@bookgeram/mobile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mahdi Khashan",
+  "license": "MIT",
+  "dependencies": {
+    "cross-env": "latest",
+    "domain": "latest"
+  } 
+}

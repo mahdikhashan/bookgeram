@@ -1,0 +1,10 @@
+{
+  "name": "@bookgeram/design-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mahdi Khashan",
+  "license": "MIT",
+  "dependencies": {
+    "vuetify": "^3.2.5"
+  }
+}

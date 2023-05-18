@@ -1,0 +1,15 @@
+{
+  "name": "@bookgeram/root",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "build-domains": "yarn workspace @bookgeram/domain build",
+    "start-web-dev": "yarn workspace @bookgeram/web dev"
+  },
+  "engines": {
+    "node": ">=16.0.0 <18.0.0"
+  },
+  "dependencies": {
+    "cross-env": "latest"
+  }  
+}
